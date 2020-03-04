@@ -1,4 +1,4 @@
-# 06MIOT1 Sistemas y tecnologías para la gestión de la información
+# Sistemas y tecnologías para la gestión de la información
 
 ## Actividad Guiada 1
 
